@@ -1,0 +1,1 @@
+replace this with your discord 2fa key manually as shown in readme file. (make sure there are no spaces)
